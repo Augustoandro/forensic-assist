@@ -6,3 +6,9 @@ Tools to be included in suite:
 3. Tool to take different file formats like .XLSX, .CSV, .TXT and it shall convert into Info Graphical and Data Visualizer forms with connected Roots, Nodes and Edges Relationships.
 4. Tool for detection of deep fake and fabricated images.
 5. Tool for detection of electronically morphed voices in media files.
+
+Technology Stack:
+1. Python
+2. Django framework
+3. MongoDB
+4. Cloud Services
